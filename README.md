@@ -6,4 +6,4 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-![](Screenshot 2024-01-14 223146.png)
+![preview img](/Screenshot 2024-01-14 223146.png)
